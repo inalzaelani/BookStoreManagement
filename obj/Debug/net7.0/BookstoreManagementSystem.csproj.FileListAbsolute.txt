@@ -1,0 +1,7 @@
+D:\BookstoreManagementSystem\obj\Debug\net7.0\BookstoreManagementSystem.csproj.AssemblyReference.cache
+D:\BookstoreManagementSystem\obj\Debug\net7.0\BookstoreManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookstoreManagementSystem\obj\Debug\net7.0\BookstoreManagementSystem.AssemblyInfoInputs.cache
+D:\BookstoreManagementSystem\obj\Debug\net7.0\BookstoreManagementSystem.AssemblyInfo.cs
+D:\BookstoreManagementSystem\obj\Debug\net7.0\BookstoreManagementSystem.csproj.CoreCompileInputs.cache
+D:\BookstoreManagementSystem\obj\Debug\net7.0\BookstoreManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\BookstoreManagementSystem\obj\Debug\net7.0\BookstoreManagementSystem.MvcApplicationPartsAssemblyInfo.cache
